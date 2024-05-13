@@ -2,7 +2,7 @@
 
 Meu nome é Leonardo
 
-- Estou estudando na Alura
+- Estou estudando na <a href="www.alura.com.br">Alura</a>
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
